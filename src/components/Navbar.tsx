@@ -9,19 +9,19 @@ const Navbar = () => {
           <Link className="navbar__link relative" href="#">
             Home
           </Link>
-          <Link className="navbar__link relative" href="#">
+          <Link className="navbar__link relative" href="/categories">
             Categories
           </Link>
-          <Link className="navbar__link relative" href="#">
+          <Link className="navbar__link relative" href="/tools">
             Tools
           </Link>
-          <Link className="navbar__link relative" href="#">
+          <Link className="navbar__link relative" href="/materials">
             Materials
           </Link>
-          <Link className="navbar__link relative" href="#">
+          <Link className="navbar__link relative" href="/blog">
             Blog
           </Link>
-          <Link className="navbar__link relative" href="#">
+          <Link className="navbar__link relative" href="/hotoffers">
             Hot Offers
           </Link>
         </div>
